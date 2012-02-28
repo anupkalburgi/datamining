@@ -1,0 +1,7 @@
+/* file.txt
+This text is the contents of the file named, "file.txt".
+ 
+It is being used with some example code to demonstrate reading a file line by
+line. More interesting things could be done with the output, but I'm trying to
+keep this example very simple.
+*/
